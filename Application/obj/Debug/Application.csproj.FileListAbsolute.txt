@@ -1,0 +1,9 @@
+C:\Users\Ioana\Source\Repos\MobilePay-CodeTest\Application\bin\Debug\LogUsers.exe.config
+C:\Users\Ioana\Source\Repos\MobilePay-CodeTest\Application\bin\Debug\LogUsers.exe
+C:\Users\Ioana\Source\Repos\MobilePay-CodeTest\Application\bin\Debug\LogUsers.pdb
+C:\Users\Ioana\Source\Repos\MobilePay-CodeTest\Application\bin\Debug\LogTest.dll
+C:\Users\Ioana\Source\Repos\MobilePay-CodeTest\Application\bin\Debug\LogTest.pdb
+C:\Users\Ioana\Source\Repos\MobilePay-CodeTest\Application\obj\Debug\Application.csprojAssemblyReference.cache
+C:\Users\Ioana\Source\Repos\MobilePay-CodeTest\Application\obj\Debug\Application.csproj.CopyComplete
+C:\Users\Ioana\Source\Repos\MobilePay-CodeTest\Application\obj\Debug\LogUsers.exe
+C:\Users\Ioana\Source\Repos\MobilePay-CodeTest\Application\obj\Debug\LogUsers.pdb

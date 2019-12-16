@@ -1,0 +1,5 @@
+C:\Users\Ioana\Source\Repos\MobilePay-CodeTest\LogTest\bin\Debug\LogTest.dll
+C:\Users\Ioana\Source\Repos\MobilePay-CodeTest\LogTest\bin\Debug\LogTest.pdb
+C:\Users\Ioana\Source\Repos\MobilePay-CodeTest\LogTest\obj\Debug\LogComponent.csprojAssemblyReference.cache
+C:\Users\Ioana\Source\Repos\MobilePay-CodeTest\LogTest\obj\Debug\LogTest.dll
+C:\Users\Ioana\Source\Repos\MobilePay-CodeTest\LogTest\obj\Debug\LogTest.pdb
